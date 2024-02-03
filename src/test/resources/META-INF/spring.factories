@@ -1,0 +1,3 @@
+org.springframework.test.context.ContextCustomizerFactory = me.jwhite1802.\
+    portfolio.config.TestContainersSpringContextCustomizerFactory,me.jwhite1802.\
+    portfolio.config.SqlTestContainersSpringContextCustomizerFactory
